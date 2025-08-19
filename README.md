@@ -108,6 +108,8 @@
   <i>No social links by choice — privacy and independence matter!</i>
 </p>
 
+<a href="https://app.daily.dev/coppnic"><img src="https://api.daily.dev/devcards/v2/z5bNZJIOpNguomDjmmrE2.png?type=wide&r=q7b" width="652" alt="coppnic's Dev Card"/></a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marvinpoo&show_icons=true&hide_border=true&theme=react" alt="GitHub Stats" height="160"/>
 </p>
