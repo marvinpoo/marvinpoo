@@ -10,7 +10,7 @@
 </p>
 
 <p align="center" style="font-size:1.18em;">
-  <b>Tach! I am Marv, a Berlin born and raised, self taught Developer with 15+ years experience.<br>
+  <b>Tach! I am Marv, a Berlin born and raised, self taught Developer with 20+ years experience.<br>
   This is my laid back open source code profile on Github.<br>
   Feel free to browse, fork, download, contribute or whatever your heart desires.</b>
 </p>
